@@ -1,6 +1,6 @@
 setup.py
 elasticsearch_indexer/__init__.py
-elasticsearch_indexer/bulk.py
+elasticsearch_indexer/batch.py
 elasticsearch_indexer.egg-info/PKG-INFO
 elasticsearch_indexer.egg-info/SOURCES.txt
 elasticsearch_indexer.egg-info/dependency_links.txt

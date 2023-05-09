@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: elasticsearch-indexer
-Version: 0.0.1
+Version: 0.0.2
 Summary: Thread based bulk writer for elasticsearch
 Home-page: UNKNOWN
 Author: Develper Junio
