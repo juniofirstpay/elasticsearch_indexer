@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='elasticsearch-indexer',
     packages=['elasticsearch_indexer'],
-    version='0.0.2',
+    version='0.0.3',
     author="Develper Junio",
     author_email='developer@junio.in',
     classifiers=[
